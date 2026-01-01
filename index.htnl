@@ -1,0 +1,54 @@
+<html lang="ja"><head>
+    <title>the biggest bag | Hint page</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #4169e1;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            text-align: center;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 700px;
+            width: 100%;
+            overflow: hidden;
+        }
+
+        .warning {
+            color: #ff0000;
+            font-size: 15px;
+        }
+
+        p {
+            color: #333;
+            font-size: 19px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 10px;
+            border-radius: 7px;
+        }
+    </style>
+</head>
+<body>
+    <p>not yet open site</p>
+</div>
+
+
+
+<deepl-input-controller></deepl-input-controller></body></html>
